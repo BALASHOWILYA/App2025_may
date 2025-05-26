@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/My_Application.iml" filepath="$PROJECT_DIR$/.idea/modules/My_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/My_Application.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/My_Application.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/My_Application.data.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/My_Application.data.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/My_Application.data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/My_Application.data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/My_Application.data.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/My_Application.data.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/My_Application.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/My_Application.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/My_Application.domain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/My_Application.domain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/My_Application.domain.test.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/My_Application.domain.test.iml" />
+    </modules>
+  </component>
+</project>
