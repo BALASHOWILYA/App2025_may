@@ -48,6 +48,7 @@ android {
 dependencies {
 
 
+    implementation(project(":APIClient"))
     implementation(project(":domain"))
     implementation(project(":data"))
     implementation(libs.androidx.lifecycle.viewmodel.ktx)
@@ -73,8 +74,7 @@ dependencies {
     implementation("androidx.compose.ui:ui-tooling:1.5.4")
     implementation("androidx.activity:activity-compose:1.8.0")
 
-    implementation("com.squareup.retrofit2:retrofit:2.9.0")
-    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+
 
 
 

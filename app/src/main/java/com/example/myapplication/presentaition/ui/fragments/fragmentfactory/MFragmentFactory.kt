@@ -2,6 +2,7 @@ package com.example.myapplication.presentaition.ui.fragments.fragmentfactory
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentFactory
+import com.example.myapplication.CharacterFragment
 import com.example.myapplication.presentaition.ui.fragments.courses.AddCourseFragment
 import com.example.myapplication.presentaition.ui.fragments.courses.CourseFragment
 import com.example.myapplication.presentaition.ui.fragments.registration.RegistrationFragment
@@ -21,6 +22,7 @@ class MFragmentFactory(): FragmentFactory() {
             CourseFragment::class.java.toString() -> CourseFragment.newInstance()
             FragmentSettings::class.java.toString() -> FragmentSettings.newInstance()
             LogINFragment::class.java.toString() -> LogINFragment.newInstance()
+            CharacterFragment::class.java.toString() -> CharacterFragment.newInstance()
             else -> super.instantiate(classLoader, className)
         }
     }

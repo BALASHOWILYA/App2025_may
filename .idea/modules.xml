@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/My_Application.iml" filepath="$PROJECT_DIR$/.idea/modules/My_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/APIClient/My_Application.APIClient.iml" filepath="$PROJECT_DIR$/.idea/modules/APIClient/My_Application.APIClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/APIClient/My_Application.APIClient.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/APIClient/My_Application.APIClient.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/APIClient/My_Application.APIClient.main.iml" filepath="$PROJECT_DIR$/.idea/modules/APIClient/My_Application.APIClient.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/APIClient/My_Application.APIClient.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/APIClient/My_Application.APIClient.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.main.iml" />

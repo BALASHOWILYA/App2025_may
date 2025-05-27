@@ -15,6 +15,7 @@ import androidx.core.view.MenuHost
 import androidx.core.view.MenuProvider
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
+import com.example.myapplication.CharacterFragment
 
 import com.example.myapplication.R
 import com.example.myapplication.databinding.ActivityMainBinding
@@ -46,9 +47,9 @@ class MainActivity : AppCompatActivity(){
             lifecycleScope.launch {
                 getUserViewModel.user.collectLatest { user ->
                     if (user != null) {
-                        replaceFragment(MUserProfileFragment::class.java.toString())
+                        replaceFragment(CharacterFragment::class.java.toString())
                     } else {
-                        replaceFragment(RegistrationFragment::class.java.toString())
+                        replaceFragment(CharacterFragment::class.java.toString())
                     }
                 }
             }
